@@ -1,0 +1,26 @@
+package practicaParcial1;
+
+import java.util.Arrays;
+
+public abstract class Propiedad {
+	
+	
+	int id;
+	String direccion;
+	int m2;
+	double importeBase;
+	
+	public Propiedad() {
+		super();
+	}
+	
+	public double calculaTotal() { 
+		return 0;
+	}
+	
+	
+	
+	
+	
+	
+}
